@@ -15,7 +15,7 @@ git clone https://github.com/kyleduong/Receipt-Delegator.git
 
 ## Set up Python environment
 
-Install [pytesseract]([https://example.com](https://tesseract-ocr.github.io/tessdoc/Installation.html))
+Install [pytesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 
 ```bash
 # Create and activate a virtual environment (optional but recommended)
