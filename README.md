@@ -32,7 +32,7 @@ run "Backend/app.py" for the backend and
 ```bash
 npm run dev
 ```
-in the terminal as for the frontend, going to [here](https://localhost/5173) to see the the locally hosted website.
+in the terminal as for the frontend, going to [here](https://localhost:5173) to see the the locally hosted website.
 
 ## Retraining the model
 
