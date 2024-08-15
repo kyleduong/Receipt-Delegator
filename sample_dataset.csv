@@ -1,0 +1,384 @@
+item,is_food
+"Pizza",True
+"Spoon",False
+"Burger",True
+"Chair",False
+"Salad",True
+"Table",False
+"Pasta",True
+"Lamp",False
+"Sushi",True
+"Television",False
+"Sandwich",True
+"Refrigerator",False
+"Coffee",True
+"Blender",False
+"Hotdog",True
+"Microwave",False
+"Steak",True
+"Dishwasher",False
+"Fries",True
+"Toaster",False
+"Bagel",True
+"Toilet Paper",False
+"Chips",True
+"Clock",False
+"Donut",True
+"Shampoo",False
+"Chicken",True
+"Fridge",False
+"Soup",True
+"Vacuum Cleaner",False
+"Cheese",True
+"Television",False
+"Juice",True
+"Fan",False
+"Spaghetti",True
+"Couch",False
+"Wine",True
+"Dish Rack",False
+"Burger Bun",True
+"Television Stand",False
+"Rice",True
+"Cookware",False
+"Fruit Salad",True
+"Soap",False
+"Burger Patty",True
+"Air Conditioner",False
+"Yogurt",True
+"Remote",False
+"Chicken Wings",True
+"Laptop",False
+"Milk",True
+"Toothpaste",False
+"Coffee Maker",False
+"Cheeseburger",True
+"Window",False
+"Pizza Dough",True
+"Pan",False
+"Pancakes",True
+"Brush",False
+"Steak Knife",False
+"Orange Juice",True
+"Rug",False
+"Hot Sauce",True
+"Microwave Oven",False
+"Milkshake",True
+"Water Bottle",False
+"Cheesecake",True
+"Doormat",False
+"Fried Rice",True
+"Curtains",False
+"Samosa",True
+"Tablecloth",False
+"Fruit Juice",True
+"Ceiling Fan",False
+"Lasagna",True
+"Fan Heater",False
+"Peanut Butter",True
+"Book",False
+"Hot Chocolate",True
+"Key Holder",False
+"Spring Roll",True
+"Trash Can",False
+"Paper Towel",False
+"Fruit Basket",True
+"Dish Soap",False
+"Chicken Nugget",True
+"Hair Dryer",False
+"Gravy",True
+"Storage Box",False
+"Cookies",True
+"Phone Charger",False
+"Garlic Bread",True
+"Shower Curtain",False
+"Steak Sauce",True
+"Pot",False
+"Chicken Caesar Salad",True
+"Blanket",False
+"Tacos",True
+"Dish Towels",False
+"Coleslaw",True
+"Napkin Holder",False
+"Chicken Breast",True
+"Heat Pad",False
+"Chicken Tenders",True
+"Magazine",False
+"Potato Chips",True
+"Photo Frame",False
+"Sushi Roll",True
+"Picture Frame",False
+"Pita Bread",True
+"Coffee Mug",False
+"Croissant",True
+"Plates",False
+"Popcorn",True
+"Binder",False
+"Smoothie",True
+"Scissors",False
+"Vegetable Soup",True
+"Computer Mouse",False
+"Nachos",True
+"Air Purifier",False
+"Meatballs",True
+"Printer",False
+"Fried Chicken",True
+"Razor",False
+"Peach Pie",True
+"Electric Kettle",False
+"Granola Bar",True
+"Blanket",False
+"Eggs Benedict",True
+"Bed Frame",False
+"Chili",True
+"Table Lamp",False
+"Guacamole",True
+"Vase",False
+"Popsicle",True
+"Mirror",False
+"Cheese Pizza",True
+"Curtain Rod",False
+"Beef Stew",True
+"Wall Clock",False
+"Butter",True
+"Bookcase",False
+"Macaroni and Cheese",True
+"Door Mat",False
+"Hot Wings",True
+"Wall Decor",False
+"Beef Burger",True
+"Shower Head",False
+"Hot Tea",True
+"Picture Frame",False
+"Meatloaf",True
+"Telephone",False
+"Fruit Smoothie",True
+"Table Chair",False
+"Pumpkin Pie",True
+"Television Stand",False
+"Potato Salad",True
+"Ceiling Light",False
+"Chicken Soup",True
+"Door Handle",False
+"Steak Sandwich",True
+"Window Blinds",False
+"Salmon",True
+"Bedspread",False
+"Egg Salad",True
+"Clothes Rack",False
+"Lasagna Roll",True
+"Hot Sauce",False
+"Pancake Syrup",True
+"Napkins",False
+"Beef Tacos",True
+"Fan Heater",False
+"Pizza Slice",True
+"Clothes Hanger",False
+"Fettuccine Alfredo",True
+"Battery Charger",False
+"Garlic Butter",True
+"Desk Lamp",False
+"Sushi Roll",True
+"Air Freshener",False
+"Chicken Burrito",True
+"Table Runner",False
+"Beef Stroganoff",True
+"Ceiling Fan",False
+"Grilled Cheese",True
+"Storage Container",False
+"Beef Ribs",True
+"Wall Shelf",False
+"Seafood Pasta",True
+"Area Rug",False
+"Breakfast Burrito",True
+"Slippers",False
+"Fruit Tart",True
+"Recliner Chair",False
+"Chocolate Cake",True
+"Electric Stove",False
+"Vegetable Stir Fry",True
+"Carpet Cleaner",False
+"Stuffed Peppers",True
+"Potpourri",False
+"Pasta Salad",True
+"Garden Hose",False
+"Eggplant Parmesan",True
+"Paper Clips",False
+"Shrimp Scampi",True
+"Doorbell",False
+"Meat Pie",True
+"Utility Knife",False
+"Chicken Alfredo",True
+"Dish Sponge",False
+"Vegetable Curry",True
+"Floor Lamp",False
+"Barbecue Ribs",True
+"Hand Towel",False
+"Hot Buttered Popcorn",True
+"Kitchen Timer",False
+"Fish Tacos",True
+"Trash Bin",False
+"Berry Smoothie",True
+"Shower Caddy",False
+"Chicken Fried Rice",True
+"Magnet",False
+"Turkey Sandwich",True
+"Magazine Rack",False
+"Cheese Fries",True
+"Coaster Set",False
+"Clam Chowder",True
+"Basket",False
+"Chicken Wings",True
+"Bluetooth Speaker",False
+"Beef Burrito",True
+"Coffee Table",False
+"Stuffed Mushrooms",True
+"Sun Lamp",False
+"Vegetable Wrap",True
+"Drawer Organizer",False
+"Frittata", True
+"Chocolate Mousse",True
+"Rug Cleaner",False
+"Chicken Kebab",True
+"Stool",False
+"Chili Con Carne",True
+"Floor Cushion",False
+"Pumpkin Soup",True
+"Grill Brush",False
+"Cheeseball",True
+"Napkin",False
+"Fruit Cup",True
+"Fabric Softener",False
+"Chicken Tenders",True
+"Laundry Basket",False
+"Buffalo Wings",True
+"Storage Shelf",False
+"Apple Pie",True
+"Cleaning Cloth",False
+"Spinach Dip",True
+"Step Stool",False
+"Chicken Sausage",True
+"Shampoo Bottle",False
+"Rice Pudding",True
+"Toilet Brush",False
+"Quiche",True
+"Fabric Freshener",False
+"Macaroni Salad",True
+"Plastic Container",False
+"Greek Salad",True
+"Dish Rack",False
+"Barbecue Chicken",True
+"Countertop Organizer",False
+"Chicken Nuggets",True
+"Measuring Cup",False
+"Garlic Knots",True
+"Window Shade",False
+"Beef Wellington",True
+"Plastic Bag",False
+"Combo",True
+"Bookend",False
+"Buffalo Chicken Wings",True
+"Coffee Can",False
+"Teriyaki Chicken",True
+"Table Cover",False
+"Cheese Stick",True
+"Chopping Board",False
+"Tomato Soup",True
+"Garbage Can",False
+"Fish Pie",True
+"Computer Desk",False
+"Vegetable Soup",True
+"Window Curtain",False
+"Chicken Parmigiana",True
+"Air Purifier",False
+"Beef Tacos",True
+"Egg Drop Soup",True
+"Houseplant",False
+"Apple Cider",True
+"Cell Phone Holder",False
+"Turkey Burger",True
+"Coffee Pot",False
+"Fried Calamari",True
+"Dish Towel",False
+"Chicken Stir Fry",True
+"Bath Mat",False
+"Beef Chili",True
+"Fridge Magnet",False
+"Seafood Paella",True
+"Doorstop",False
+"Fruit Smoothie",True
+"Blender Bottle",False
+"Chicken Fajitas",True
+"Drinking Glass",False
+"Roast Beef",True
+"Hair Brush",False
+"Berry Tart",True
+"Pot Rack",False
+"Fruit Sorbet",True
+"Paper Napkins",False
+"Pumpkin Muffins",True
+"Kitchen Apron",False
+"Chicken Quesadilla",True
+"Cooktop",False
+"Cheese Fondue",True
+"Dishcloth",False
+"Vegetable Pizza",True
+"Spice Rack",False
+"Buffet",True
+"Coat Rack",False
+"Cheese Platter",True
+"Garden Shears",False
+"Vegetarian Chili",True
+"Eggnog",True
+"Wooden Spoon",False
+"Stuffed Shells",True
+"Blender Brush",False
+"Chicken Teriyaki",True
+"Kitchen Scale",False
+"Cheeseburger Pizza",True
+"Dishwashing Liquid",False
+"Grilled Vegetables",True
+"Recycling Bin",False
+"Beef Kabobs",True
+"Dish Soap",False
+"Hot Wings",True
+"Wooden Table",False
+"Chicken Cacciatore",True
+"Food Processor",False
+"Chicken Salad",True
+"Pantry Organizer",False
+"Fruit Tart",True
+"Spice Grinder",False
+"Veggie Burger",True
+"Cooking Thermometer",False
+"Cheesecake Brownies",True
+"Paper Towel Holder",False
+"Potato Wedges",True
+"Glass Jar",False
+"Fruit Smoothie",True
+"Dishwasher Detergent",False
+"Cheese Quesadilla",True
+"Barbecue Sauce",True
+"Window Blind",False
+"Chicken Alfredo Pasta",True
+"Apron",False
+"Meatball Sub",True
+"Shower Head",False
+"Beef Burrito Bowl",True
+"Hair Dryer",False
+"Pumpkin Muffin",True
+"Spice Container",False
+"Chicken Nuggets",True
+"Toaster Oven",False
+"Beef Empanadas",True
+"Vacuum Cleaner",False
+"Chocolate Chip Cookies",True
+"Stove Top",False
+"Shrimp Tacos",True
+"Countertop",False
+"Cheeseburger",True
+"Garlic Breadsticks",True
+"Office Chair",False
+"Frittata",True
+"Keyboard",False
+"Eggs Florentine",True
