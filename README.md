@@ -28,12 +28,15 @@ pip install -r requirements.txt
 
 ## Running the code hosted locally
 
-run "Backend/app.py" for the backend
+run "Backend/app.py" for the backend and 
 ```bash
 npm run dev
 ```
-for the frontend
+in the terminal as for the frontend, going to [here](https://localhost/5173) to see the the locally hosted website.
 
-## retraining the model
+## Retraining the model
 
 run "Backend/trainingNER.py"
+
+## License
+This project is licensed under the terms of the MIT license
