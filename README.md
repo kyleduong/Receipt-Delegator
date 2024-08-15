@@ -28,16 +28,24 @@ pip install -r requirements.txt
 ```
 
 ## Running the code hosted locally
-
-run "Backend/app.py" for the backend and 
 ```bash
+python Backend/app.py
 npm run dev
 ```
-in the terminal as for the frontend, going to [here](https://localhost:5173) to see the the locally hosted website.
+[https://localhost:5173](https://localhost:5173) to see the the locally hosted website.
 
+## Technologies Used
+
+- **Frontend:** React.js
+- **Backend:** Flask
+- **Database:** PostgreSQL
+- **Other:** Pytesseract, spaCy, OpenCV
+  
 ## Retraining the model
 
-run "Backend/trainingNER.py"
+```bash
+python Backend/trainingNER.py
+```
 
 ## License
 This project is licensed under the terms of the MIT license
