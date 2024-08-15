@@ -3,6 +3,7 @@
 Goal: Take a picture of your receipt and be able to delegate all of the receipt items purchased to the various people that ordered.
 
 ## How it works
+The user will upload a picture of a receipt with a preferrable dark background. Then the image will undergo a transformation and reading. 
 
 ![Receipt Process](./Receipt%20Process.png)
 
