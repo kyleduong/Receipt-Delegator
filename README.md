@@ -25,3 +25,15 @@ source venv/bin/activate  # For Windows, use venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+## Running the code hosted locally
+
+run "Backend/app.py" for the backend
+```bash
+npm run dev
+```
+for the frontend
+
+## retraining the model
+
+run "Backend/trainingNER.py"
