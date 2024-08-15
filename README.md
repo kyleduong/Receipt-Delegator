@@ -9,12 +9,13 @@ Goal: Take a picture of your receipt and be able to delegate all of the receipt 
 Preprocesses the image -> Pytesseract extracts the words -> use spaCy for NER and filter the food words
 
 ## Installation
-
-git clone 
+```bash
+git clone https://github.com/kyleduong/Receipt-Delegator.git
+```
 
 ## Set up Python environment
 
-Install pytesseract
+Install [pytesseract]([https://example.com](https://tesseract-ocr.github.io/tessdoc/Installation.html))
 
 ```bash
 # Create and activate a virtual environment (optional but recommended)
