@@ -10,3 +10,17 @@ Preprocesses the image -> Pytesseract extracts the words -> use spaCy for NER an
 
 ## Installation
 
+git clone 
+
+## Set up Python environment
+
+Install pytesseract
+
+```bash
+# Create and activate a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # For Windows, use venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
